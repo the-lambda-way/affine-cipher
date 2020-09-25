@@ -10,10 +10,10 @@ The following functions are provided:
 
 *affine:* Encrypt a single letter or character ordinal, or string or array of ordinals.
 *affine_in_place:* Encrypt a string or array of ordinals into an existing object.
-*all_affines:* Encrypt a string or array of ordinals with all invertible values of ``a`` and all values of ``b``, both variables between 0 to 26.
+*all_affines:* Encrypt a string or array of ordinals with all invertible values of ``a`` and all values of ``b``, both variables between 0 to 25.
 *decrypt_affine:* Decrypt a single letter or character ordinal, or string or array of ordinals.
 *decrypt_affine_in_place:* Decrypt a string or array of ordinals into an existing object.
-*decrypt_all_affines:* Decrypt a string or array of ordinals with all the coprimes of the invertible values of ``a`` and all values of ``b``, both variables between 0 to 26.
+*decrypt_all_affines:* Decrypt a string or array of ordinals with all the coprimes of the invertible values of ``a`` and all values of ``b``, both variables between 0 to 25.
 
 
 # Notes
