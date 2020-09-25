@@ -1,4 +1,4 @@
-# Affine Cipher Decryptor
+# Affine Cipher Encryptor / Decryptor
 
 Encrypts or decrypts texts with the affine cipher. The [affine cipher](https://en.wikipedia.org/wiki/Affine_cipher) is a simple substitution cipher which shifts each letter using the formula ``(a*c + b) mod 26`` for a letter ``c`` and integer values ``a`` and ``b``.
 
