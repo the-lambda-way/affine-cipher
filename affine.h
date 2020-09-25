@@ -5,7 +5,7 @@
 #include <string_view>
 
 
-std::string_view alpahbet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+std::string_view alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 
 // ---------------------------------------------------------------------------------------------------------------------
